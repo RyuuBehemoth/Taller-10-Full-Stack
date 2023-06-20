@@ -14,6 +14,8 @@
 <img src = "./public/images/age.png" alt = "age" >
 
 <h2>Punto 3:</h2>
+<h3>Datos del usuario</h3>
+<img src = "./public/images/user_data.png" alt = "user-data" >
 
 <h2>Punto 4:</h2>
 

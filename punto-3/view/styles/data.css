@@ -1,0 +1,11 @@
+.user-data__container div {
+        margin: 15px 0;
+    }
+    
+.user-data__container b {
+    color: #e87537e2;
+}
+    
+.go-back {
+    margin-top: 50px;
+}
