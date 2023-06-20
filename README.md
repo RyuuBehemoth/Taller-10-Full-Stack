@@ -10,6 +10,8 @@
 <img src = "./public/images/calculator.png" alt = "calculator">
 
 <h2>Punto 2:</h2>
+<h3>Edad</h3>
+<img src = "./public/images/age.png" alt = "age" >
 
 <h2>Punto 3:</h2>
 

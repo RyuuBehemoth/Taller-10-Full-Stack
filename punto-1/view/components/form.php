@@ -27,5 +27,5 @@
             <option value="div">Dividir</option>
         </select>
     </div>
-    <button>Sumar</button>
+    <button>Operar</button>
 </form>
