@@ -8,7 +8,7 @@
         <span><?php echo $_GET["last_name"] ?></span>
     </div>
     <div>
-        <b>Número de cedula del usuario:</b>
+        <b>Número de cédula del usuario:</b>
         <span><?php echo $_GET["id_number"] ?></span>
     </div>
 </div>

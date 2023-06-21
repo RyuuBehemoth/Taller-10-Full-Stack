@@ -28,7 +28,7 @@
         </div>
         <div>
             <label for="id-number">
-                Numero de cedula del usuario:
+                Numero de cédula del usuario:
             </label>
             <input 
             id="id-number"

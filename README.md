@@ -25,3 +25,6 @@
 
 <h3>6 - Conexión</h3>
 <img src = "./public//images/connection.png" alt = "connection">
+
+<h3>7 - Muestra de datos en pantalla</h3>
+<img src = "./public//images/bd.png" alt = "bd">
