@@ -1,4 +1,4 @@
-<?php include "./controller/calculationController.php"; ?>
+<?php include "./controller/ageValidationController.php"; ?>
 
 <form method = "post">
     <h2>Validacion de edad</h2>

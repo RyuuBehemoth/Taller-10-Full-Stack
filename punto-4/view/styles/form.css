@@ -1,0 +1,11 @@
+.pass__input {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 40px 0px;
+    gap: 5px;
+}
+
+.pass__input span {
+    font-size: 12px;
+}
