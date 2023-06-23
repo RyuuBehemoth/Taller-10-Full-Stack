@@ -17,7 +17,11 @@
                 $result = $firstNumber * $secondNumber;
                 break;
             case "div":
-                $result = $firstNumber / $secondNumber;
+                if ($secondNumber == 0) {
+                    $result = "No se puede dividir entre cero.";
+                } else {
+                    $result = $firstNumber / $secondNumber;
+                }
                 break;
         }
     }
